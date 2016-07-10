@@ -1,0 +1,2 @@
+# stockPricesProcessing
+Downloadした日本個別株価データの処理をするためのスクリプト
